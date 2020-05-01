@@ -1,4 +1,4 @@
-class ExamplePlot:
+class Example:
     """This class is only an example."""
 
     def get_value(self):
