@@ -22,10 +22,7 @@ you through the process.
 
 ## Quick Start
 ```python
->>> from plotting_tools import Example
->>> a = Example()
->>> a.get_value()
-10
+>>> from plotting_tools import plotting
 
 ```
 
