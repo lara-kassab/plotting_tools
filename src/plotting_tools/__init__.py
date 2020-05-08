@@ -11,4 +11,4 @@ __license__ = "MIT"
 __copyright__ = "Copyright (c) 2020, Lara Kassab"
 
 
-from .plotting_tools import plotting # noqa: F401
+from .plotting import reset_plot_kwargs, markevery, plot, plot_medians_and_ci # noqa: F401
