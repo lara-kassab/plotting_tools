@@ -13,6 +13,7 @@ To install Python Plotting Tools, run this command in your terminal:
 
 ```bash
 $ pip install -U plotting_tools
+$ plot(data, *plot_args, color=None, linestyle=None, marker=None, **plot_kwargs)
 ```
 
 This is the preferred method to install Python Plotting Tools, as it will always install the most recent stable release.
