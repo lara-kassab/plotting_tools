@@ -22,6 +22,7 @@ you through the process.
 
 ## Quick Start
 TO-DO: Add documentation.
+TO-DO: Upload the distribution archives
 ```python
 >>> from plotting_tools import plotting
 
