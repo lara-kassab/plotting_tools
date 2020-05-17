@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib
 matplotlib.use("TkAgg")
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
 from itertools import cycle
 
 def reset_plot_kwargs():

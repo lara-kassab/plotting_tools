@@ -32,7 +32,7 @@ dev_requirements = [
     "wheel>=0.33.1",
 ]
 
-requirements = ["numpy", "matplotlib", "matplotlib.pyplot", "cycle"]
+requirements = ["numpy", "matplotlib", "itertools"]
 
 extra_requirements = {
     "test": test_requirements,
