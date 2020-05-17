@@ -21,8 +21,8 @@ If you don't have [pip](https://pip.pypa.io) installed, these [installation inst
 you through the process.
 
 ## Quick Start
-TO-DO: Add documentation.
-TO-DO: Upload the distribution archives
+TODO: Add documentation.
+
 ```python
 >>> from plotting_tools import plotting
 
